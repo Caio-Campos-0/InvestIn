@@ -7,7 +7,7 @@ Este repositório contém uma planilha do Excel desenvolvida para fins educacion
 A planilha foi criada para ajudar estudantes e investidores iniciantes a entenderem:
 
 - Como montar um plano de investimento mensal baseado em perfil.
-- Como usar funções como **PROCV (VLOOKUP)** no Excel para buscar alocações sugeridas.
+- Como usar funções como no Excel para buscar alocações sugeridas.
 - Como simular o crescimento patrimonial e de dividendos ao longo dos anos.
 - Como aplicar conceitos básicos de finanças com o apoio de tabelas e gráficos.
 
